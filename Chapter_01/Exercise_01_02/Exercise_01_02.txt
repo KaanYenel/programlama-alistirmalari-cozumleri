@@ -1,4 +1,4 @@
 (Display five messages) Write a program that displays Welcome to Java five
 times.
 
-(Ekrana beş mesaj yazdırın) Ekrana beş defa "Welcome to Java" mesajını yazdıracak bir program yazın.  
+(Ekrana beş mesaj yazdırma) Ekrana beş defa "Welcome to Java" mesajını yazdıracak bir program yazın.  

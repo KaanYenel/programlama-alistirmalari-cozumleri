@@ -1,0 +1,5 @@
+(Display three messages) Write a program that displays Welcome to Java,
+Welcome to Computer Science, and Programming is fun.
+
+(Ekrana üç mesaj yazdırın) Ekrana bu üç mesajı yazdıracak bir program yazın: Welcome to Java,
+Welcome to Computer Science, and Programming is fun.

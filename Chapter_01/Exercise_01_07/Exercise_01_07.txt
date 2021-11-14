@@ -13,4 +13,4 @@ Use 1.0 instead of 1 in your program.
 --------------------------------------------------------------
 Aşağıdaki işlemlerin sonucunu ekrana yazdıran bir program yazın. 
 4 X (1 - 1/3 + 1/5 - 1/7 + 1/9 - 1/11) ve 4 X (1 - 1/3 + 1/5 - 1/7 + 1/9 - 1/11 + 1/13).
-programınızda biri 1.0 olarak yazın.
+programınızda biri, 1.0 olarak yazın.

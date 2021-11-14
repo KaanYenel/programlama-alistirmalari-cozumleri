@@ -2,5 +2,6 @@
 and 30 seconds. Write a program that displays the average speed in miles per
 hour. (Note 1 mile is equal to 1.6 kilometers.)
 
-(Mil cinsinden hız hesaplama) Bir koşucunun 14 kilometreyi 45 dakika 30 saniyede koştuğunu varsayalım. koşucunun saatte kaç mil hızla koştuğunu ekrana yazdıran bir program yazın. 
+(Mil cinsinden hız hesaplama) Bir koşucunun 14 kilometreyi 45 dakika 30 saniyede koştuğunu varsayalım. 
+koşucunun saatte kaç mil hızla koştuğunu ekrana yazdıran bir program yazın. 
 (Not: 1 mil 1,6 kilometreye eşittir.)

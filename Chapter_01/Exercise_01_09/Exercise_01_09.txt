@@ -1,0 +1,10 @@
+(Area and perimeter of a rectangle) Write a program that displays the area and
+perimeter of a rectangle with a width of 4.5 and a height of 7.9 using the following
+formula:
+
+area = width X height
+
+(Bir dikdörtgenin alanı ve çevresi) Aşağıdaki formülü kullanarak genişliği 4.5, 
+yüksekliği 7.9 olan bir dikdörtgenin alanını ve çevresini ekrana yazdıran bir program yazın.
+
+alan = genişlik X yükseklik

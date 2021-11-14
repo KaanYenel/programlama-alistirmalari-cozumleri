@@ -1,0 +1,12 @@
+(Area and perimeter of a circle) Write a program that displays the area and perimeter
+of a circle that has a radius of 5.5 using the following formulas:
+
+perimeter = 2 X radius X π
+area = radius X radius X π
+
+(Bir dairenin alanı ve çevresi) Aşağıdaki formülleri kullanarak yarıçapı 5.5 olan bir dairenin alanını ve çevresini ekrana yazdıran bir program yazın.
+
+çevre = 2 X yarıçap X π
+area = yarıçap X yarıçap X π
+
+ 

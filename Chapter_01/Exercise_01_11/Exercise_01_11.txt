@@ -1,0 +1,28 @@
+(Population projection) The U.S. Census Bureau projects population based on the following assumptions: 
+
+■■ One birth every 7 seconds 
+■■ One death every 13 seconds 
+■■ One new immigrant every 45 seconds 
+
+Write a program to display the population for each of the next five years. 
+Assume that the current population is 312,032,486, and one year has 365 days. 
+Hint: In Java, if two integers perform division, the result is an integer. 
+The fractional part is truncated. For example, 5 / 4 is 1 (not 1.25) 
+and 10 / 4 is 2 (not 2.5). To get an accurate result with the fractional part, 
+one of the values involved in the division must be a number with a decimal point. 
+For example, 5.0 / 4 is 1.25 and 10 / 4.0 is 2.5
+
+
+(Nüfus öngörümü) Amerika Birleşik Devletleri Nüfus Sayım Bürosu, Aşağıdaki 
+varsayımlara dayanarak nüfus öngörümünü yayınlar.
+
+■■ Her 7 saniyede bir doğum 
+■■ her 13 saniyede bir ölüm
+■■ her 45 saniyede yeni bir göçmen
+
+Gelecek beş yılın her bir yılı için nüfus miktarını ekrana yazdıran bir program yazın. 
+Mevcut nüfusun 312.032.486 olduğunu ve bir yılın 365 gün olduğunu varsayın. 
+İpucu: Java'da bölme işlemini iki tamsayı ile gerçekleştiriyorsa sonuç bir tamsayıdır. Kesirli kısım düşer.
+Örneğin, 5 / 4, 1'dir (1.25 değil) veya 10 / 4, 2'dir (2.5 değil). Bölme işleminde yer alan sayılardan 
+biri ondalıklı sayı olmalıdır. Örneğin, 5.0 / 4, 1.25'dir veya 10 / 4.0, 2.5'dir.
+

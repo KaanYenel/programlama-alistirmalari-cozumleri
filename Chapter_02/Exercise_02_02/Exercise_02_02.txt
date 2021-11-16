@@ -1,0 +1,14 @@
+(Compute the volume of a cylinder) Write a program that reads in the radius
+and length of a cylinder and computes the area and volume using the following
+formulas:
+
+area = radius × radius × π
+volume = area × length
+
+
+(Silindirin hacmini hesaplama) Aşağıdaki formülleri kullanarak kullanıcıdan sırasıyla
+silindirin yarıçapını ve uzunluğunu okuyan sonra da bu silindirin alanını ve hacmini 
+hesaplayıp ekrana yazdıran bir program yazın. 
+
+alan = yarıçap × yarıçap × π
+hacim = alan × uzunluk
